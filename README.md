@@ -2,7 +2,7 @@
 This project describes about a simple Login Page using HTML and CSS.
 HTML (HyperText Markup Language):
 1.Semantic Structure:
-  HTML is used to create the structure and content of the web page. Semantic HTML elements like <form>, <input> are used to define the different parts of the login form.
+  HTML is used to create the structure and content of the web page. Semantic HTML elements are used to define the different parts of the login form.
 2.Form Handling:
   HTML <form> element is utilized to create the login form. Input fields for username and password are defined using <input> elements with appropriate types (text and password).
    
