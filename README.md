@@ -1,4 +1,4 @@
-# Login-Form
+# User Authentication Page
 This project describes about a simple Login Page using HTML and CSS.
 HTML (HyperText Markup Language):
 1.Semantic Structure:
